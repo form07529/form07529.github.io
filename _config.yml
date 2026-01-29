@@ -1,4 +1,4 @@
 include:
   - .well-known
-  mime_types:
+mime_types:
   - apple-app-site-association: application/json
