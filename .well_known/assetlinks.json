@@ -1,0 +1,9 @@
+[{
+    "relation": ["delegate_permission/common.handle_all_urls"],
+    "target": {
+        "namespace": "android_app",
+        "package_name": "hr.in2.nlb.mskladi",
+        "sha256_cert_fingerprints":
+            ["14:AE:CF:70:43:B8:86:AF:06:B8:52:77:BA:22:61:EF:3D:62:AD:B3:37:8B:06:06:FD:76:18:B8:88:70:E6:20"]
+    }
+}];
