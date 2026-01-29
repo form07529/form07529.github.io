@@ -1,1 +1,18 @@
-
+---
+permalink: /.well-known/apple-app-site-association
+---
+{
+  "applinks": {
+    "details": [
+      {
+        "appIDs": ["P24GK4ML9S.si.nlbskladi.skladi"],
+        "components": [
+          {
+            "/": "/registerLink",
+            "?": { "c": "?*" }
+          }
+        ]
+      }
+    ]
+  }
+}
