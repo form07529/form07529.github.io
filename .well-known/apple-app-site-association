@@ -1,16 +1,15 @@
 {
   "applinks": {
-      "details": [
-           {
-             "appIDs": ["si.nlbskladi.skladi"],
-             "components": [
-               {
-                  "/": "registerLink",
-                  "?": "c",
-                  "comment": "Matches /registerLink?c=..."
-               }
-             ]
-           }
-       ]
-   }
+    "details": [
+      {
+        "appIDs": ["P24GK4ML9S.si.nlbskladi.skladi"],
+        "components": [
+          {
+            "/": "/registerLink",
+            "?": { "c": "?*" }
+          }
+        ]
+      }
+    ]
+  }
 }
